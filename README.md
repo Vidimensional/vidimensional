@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Daniel Vidal 👋
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidimensional&layout=compact&theme=dracula)
 
 <!--
 **Vidimensional/vidimensional** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
